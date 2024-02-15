@@ -1,4 +1,4 @@
-# Login e Registro Simples
+# Login e Registro Simples.
 
 ## Introdução
 Este projeto  utiliza uma tela simples de login e senha se baseando em uma API local ou de teste.
